@@ -1,3 +1,4 @@
+![Project Banner](banner.png)
 # IMDB Sentiment Analysis using LSTM with GloVe
 
  This project performs **Sentiment Analysis on IMDB movie reviews** using **Deep Learning (LSTM) with GloVe embeddings** to classify reviews as Positive or Negative inside a clean, structured Jupyter Notebook.
